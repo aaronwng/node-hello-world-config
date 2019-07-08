@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: gcr.io/disco-approach-222810/go-hello-world:master-4175f92
+        image: 42.62.51.57/test/hello-world:master-a4a9c1fe
         ports:
         - containerPort: 8080
