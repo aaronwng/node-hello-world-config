@@ -1,0 +1,1 @@
+{"jobID":"b7035941-6d6a-ffe1-6430-6ec0167904e8","spec":{"type":"policy","cause":{"Message":"","User":"Aaron Wang \u003cyuxianzhiyanai@163.com\u003e"},"spec":{"default:deployment/hello-world":{"add":{"automated":"true"},"remove":null}}},"result":null}
