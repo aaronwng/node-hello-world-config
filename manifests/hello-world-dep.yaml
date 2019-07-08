@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: 42.62.51.57/test/hello-world:master-a4a9c1fe
+        image: 42.62.51.57/test/hello-world:master-70961665b
         ports:
         - containerPort: 8080
